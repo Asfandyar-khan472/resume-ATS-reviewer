@@ -1,2 +1,0 @@
-# resume-ATS-reviewer
-main
